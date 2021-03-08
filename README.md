@@ -1,2 +1,4 @@
-# My-CheatSheet
-Codecademy project:  making My cheat sheet page  by html&amp;css
+# My-CheatSheet - original HTML tags cheat sheet
+this is an original cheat sheet by using html&css.
+
+supported by Codecademy
