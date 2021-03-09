@@ -1,6 +1,7 @@
 body {
   font-family: Courier;
   color: #111111;
+  background-color: white;
 }
 
 Table {
@@ -8,6 +9,8 @@ Table {
 }
 
 h3 {
+  margin-top: 30px;
+  margin-bottom: 5px;
   font-style: bold;
 
 }
