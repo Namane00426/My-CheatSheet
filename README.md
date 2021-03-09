@@ -5,4 +5,5 @@ Sample images file shows result of this web page.
 When mouse over on the lists, the pointed row's color will be changed and font-style will become bold. (see sampleimages/mouseover_index.png)
 
 language: html, css
-supported by Codecademy
+
+Supported by Codecademy
